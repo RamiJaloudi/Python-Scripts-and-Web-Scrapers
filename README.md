@@ -1,0 +1,1 @@
+ This project is designed to showcase the use of Python for extracting information from web pages, processing natural language, and managing data through CSV files. It's a perfect blend of web scraping, natural language processing (NLP) using NLTK, and data handling techniques.
